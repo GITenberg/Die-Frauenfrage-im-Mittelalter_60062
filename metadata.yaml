@@ -1,0 +1,31 @@
+_repo: Die-Frauenfrage-im-Mittelalter_60062
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bücher, Karl
+    aliases:
+    - Bucher, Karl
+    - Bücher, Carl
+    birthdate: 1847
+    deathdate: 1930
+    gutenberg_agent_id: '50766'
+    url: http://www.gutenberg.org/2009/agents/50766
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Karl_B%C3%BCcher
+    - https://de.wikipedia.org/wiki/Karl_B%C3%BCcher
+description: ''
+gutenberg_issued: '2019-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60062'
+  lccn: ltf91003442
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- History -- Middle Ages, 500-1500'
+- !lcc 'HQ'
+- GITenberg
+title: Die Frauenfrage im Mittelalter
+url: http://www.gutenberg.org/ebooks/60062
